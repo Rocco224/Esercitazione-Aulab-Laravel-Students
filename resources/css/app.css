@@ -1,0 +1,9 @@
+@import 'bootstrap';
+
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-color: whitesmoke;
+}
